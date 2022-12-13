@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bengkel.css">
 	<script src="js/uikit.min.js"></script>
 	<script src="js/uikit-icons.min.js"></script>
-	<title>Andy Yudithio</title>
+	<title>Bengkelku</title>
 </head>
 
 <body>
